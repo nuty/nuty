@@ -7,6 +7,6 @@
   #:name "wuweiru"
   #:focus-on '(FullStack DevOps)
   #:language '(Python Racket Golang)
-  #:mail "answerw16@gmail.com"
+  #:mail "heizai3@gmail.com"
   #:Pronouns: '(He Him))
 ```
